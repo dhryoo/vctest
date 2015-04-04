@@ -54,6 +54,7 @@ int APIENTRY _tWinMain(_In_ HINSTANCE hInstance,
 
 
 	//ok
+	//bugFix
 	
 	return (int) msg.wParam;
 }
