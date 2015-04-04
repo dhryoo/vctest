@@ -57,6 +57,8 @@ int APIENTRY _tWinMain(_In_ HINSTANCE hInstance,
 	//bugFix
 	//add sdp to tcp sync command
 	// sync bug fixed
+
+	//new bug fixed
 	
 	return (int) msg.wParam;
 }
